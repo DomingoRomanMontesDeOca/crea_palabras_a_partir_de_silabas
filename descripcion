@@ -1,1 +1,25 @@
-Desc
+# Descripción del proyecto: 
+# Un creador de palabras a partir de unas decisiones manuales o aleatorias
+
+# preguntas previas
+
+## primera modalidad: manual 
+
+  # 1. Pregunta de cuántas sílabas quiere el usuario la palabra
+
+  # 2. Decisiones sobre el tipo de sílabas (cv, cvc, etc.)
+
+  # 3. Decisión sobre acentuación (grave, aguda, esdrújula)
+
+
+variable ene_silabas
+
+
+
+
+
+
+
+
+## segunda modalidad: aleatoria
+
